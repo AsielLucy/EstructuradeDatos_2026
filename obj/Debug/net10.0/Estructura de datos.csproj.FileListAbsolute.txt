@@ -1,0 +1,14 @@
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\bin\Debug\net10.0\Estructura de datos.exe
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\bin\Debug\net10.0\Estructura de datos.deps.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\bin\Debug\net10.0\Estructura de datos.runtimeconfig.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\bin\Debug\net10.0\Estructura de datos.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\bin\Debug\net10.0\Estructura de datos.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.AssemblyInfo.cs
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\refint\Estructura de datos.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\Estructura de datos.genruntimeconfig.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\obj\Debug\net10.0\ref\Estructura de datos.dll
