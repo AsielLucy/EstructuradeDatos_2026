@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "clae 2 real/1.0.0": {
+        "runtime": {
+          "clae 2 real.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clae 2 real/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

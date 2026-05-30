@@ -1,0 +1,15 @@
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\bin\Debug\net10.0\clae 2 real.exe
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\bin\Debug\net10.0\clae 2 real.deps.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\bin\Debug\net10.0\clae 2 real.runtimeconfig.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\bin\Debug\net10.0\clae 2 real.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\bin\Debug\net10.0\clae 2 real.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.AssemblyInfoInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.AssemblyInfo.cs
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.csproj.CoreCompileInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.sourcelink.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\refint\clae 2 real.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\clae 2 real.genruntimeconfig.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clae 2 real\obj\Debug\net10.0\ref\clae 2 real.dll
