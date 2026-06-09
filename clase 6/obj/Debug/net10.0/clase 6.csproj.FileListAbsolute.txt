@@ -1,0 +1,15 @@
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\bin\Debug\net10.0\clase 6.exe
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\bin\Debug\net10.0\clase 6.deps.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\bin\Debug\net10.0\clase 6.runtimeconfig.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\bin\Debug\net10.0\clase 6.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\bin\Debug\net10.0\clase 6.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.AssemblyInfoInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.AssemblyInfo.cs
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.csproj.CoreCompileInputs.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.sourcelink.json
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\refint\clase 6.dll
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.pdb
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\clase 6.genruntimeconfig.cache
+C:\Users\bruag\OneDrive\Escritorio\Documentos\Estructura de datos\clase 6\obj\Debug\net10.0\ref\clase 6.dll
